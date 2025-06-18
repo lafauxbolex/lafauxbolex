@@ -2,7 +2,7 @@
 
 ## The Dream: A Cinema Camera "With a Box of Scraps"
 
-Welcome to the Faux Bolex project! This endeavor was born from a lifelong passion for filmmaking, a fascination with the technical aspects of cinema cameras, and a natural-born maker's spirit. Born in 1980, owning a proper cinema camera was an impossible dream. While digital cinema has made this more accessible (thanks, George Lucas, Jim Jannard, and others!), the challenge of building one from scratch was an irresistible siren call.
+Welcome to the Faux Bolex project! This endeavor was born from a lifelong passion for filmmaking, a fascination with the technical aspects of cinema cameras, and a natural-born maker's spirit. Born in 1980, owning a proper cinema camera was an impossible dream. While digital cinema has made this more accessible (thanks, George Lucas, Jim Jannard, and others), the challenge of building one from scratch was an irresistible siren call.
 
 This project is an homage to the spirit of innovation and a nod to the legendary Digital Bolex D16. Why the D16? Its beautiful marriage of old and new, the unique look from its 1" CCD global shutter sensor, and Joseph Rubinstein's original vision for an accessible cinema tool resonated deeply. Its untimely demise also served as a motivation to keep its spirit alive, in a way.
 
@@ -27,12 +27,12 @@ This project has been nearly a year in the making, filled with research, headach
         *   A growing collection of C-mount and adaptable lenses.
 
 *   **The First Code (The Monolith):**
-    *   The initial software was a single, sprawling Python script – a testament to a burst of creative energy and a lot of caffeine!
+    *   The initial software was a single, sprawling Python script – a testament to a burst of creative energy and a lot of caffeine
     *   It was a patchwork of:
         *   Code snippets to interface with the Basler camera via the Pylon SDK (pieced together from documentation and examples).
         *   Random blocks extracted from OpenCV repositories for image manipulation and display.
         *   A Python gaming library for basic button input.
-    *   AI assistance was more rudimentary back then (this was many AI-generations ago!), so progress was a hard-fought battle of sifting through documentation and endless debugging.
+    *   AI assistance was more rudimentary back then (this was many AI-generations ago), so progress was a hard-fought battle of sifting through documentation and endless debugging.
 
 *   **Early Milestones & Struggles:**
     *   **Success:** Achieved (silent) uncompressed 2K TIFF file output to an intermediary buffer, then saved to SSD on stop.
@@ -53,23 +53,23 @@ This project has been nearly a year in the making, filled with research, headach
 
 *   **Conquering CinemaDNG:**
     *   This was the "holy grail" for the project. The goal was to output industry-standard DNG files, just like the original D16.
-    *   **Milestone:** Reverse-engineering original Bolex D16 DNG files to understand their metadata structure and tags. This was painstaking work!
+    *   **Milestone:** Reverse-engineering original Bolex D16 DNG files to understand their metadata structure and tags. This was painstaking work.
     *   **Tooling:** The `PiDNG` library (or a similar DNG library/custom implementation) was adopted/developed to construct DNG files.
-    *   **Initial Success:** We went from debayered TIFFs to compliant, usable RAW DNGs! This was mind-blowing. The camera could now output files that professional software like DaVinci Resolve could understand as RAW.
+    *   **Initial Success:** We went from debayered TIFFs to compliant, usable RAW DNGs. This was mind-blowing. The camera could now output files that professional software like DaVinci Resolve could understand as RAW.
     *   **Struggle:** Color science was tricky. Initial DNGs looked washed out or had color casts. The original Bolex color matrices were elusive or hard to apply correctly at first.
     *   **Struggle:** Metadata was complex. Getting all the DNG tags right (`BlackLevel`, `WhiteLevel`, `ColorMatrix1/2`, `CalibrationIlluminant1/2`, `AsShotNeutral`, `CFAPattern`) was an iterative process of trial, error, and `exiftool` analysis.
     *   **Struggle (Still):** DNG file sizes were still an issue (initially uncompressed within the DNG).
 
-**Phase 3: Refinement, UI, and Real-World Usability (The Polish - approx. Beta 0.7 - 0.93 - Where We Are Now!)**
+**Phase 3: Refinement, UI, and Real-World Usability (The Polish - approx. Beta 0.7 - 0.93 - Where We Are Now)**
 
-*   **Color Science Deep Dive (The "It Works Like a Real Camera!" Moment):**
+*   **Color Science Deep Dive (The "It Works Like a Real Camera" Moment):**
     *   This was a period of intense focus. We wrestled with:
         *   `BlackLevel` and `WhiteLevel` settings (understanding sensor black vs. DNG tag black, MSB-aligned data, etc.). The "eyeballed" `30/30980` with unscaled data became a key pragmatic solution for a good default look in Resolve when `BaselineExposure` was ignored.
         *   Correctly sourcing and applying the original Bolex D16 `ColorMatrix1` (StdA) and `ColorMatrix2` (D65) and pairing them with the right `CalibrationIlluminant` tags.
         *   Ensuring `AsShotNeutral` was correctly calculated from camera WB gains and formatted as rationals for the DNG.
         *   Confirming the `CFAPattern` (GBRG `1,2,0,1`) for our direct sensor output.
         *   Adding `BayerGreenSplit` for better demosaicing.
-    *   **Milestone:** DNGs started looking *good* in DaVinci Resolve, especially after a manual WB, with recoverable highlights and shadows. The "Faux Bolex" was producing images with a quality and flexibility comparable to commercial cinema cameras!
+    *   **Milestone:** DNGs started looking *good* in DaVinci Resolve, especially after a manual WB, with recoverable highlights and shadows. The "Faux Bolex" was producing images with a quality and flexibility comparable to commercial cinema cameras.
 
 *   **User Interface (UI) Overhaul:**
     *   **The Goal:** Move away from "beta test" looking overlays to something professional.
