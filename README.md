@@ -4,13 +4,13 @@
 
 Welcome to the Faux Bolex project! This endeavor was born from a lifelong passion for filmmaking, a fascination with the technical aspects of cinema cameras, and a natural-born maker's spirit. Born in 1980, owning a proper cinema camera was an impossible dream. While digital cinema has made this more accessible (thanks, George Lucas, Jim Jannard, and others), the challenge of building one from scratch was an irresistible siren call.
 
-This project is an homage to the spirit of innovation and a nod to the legendary Digital Bolex D16. Why the D16? Its beautiful marriage of old and new, the unique look from its 1" CCD global shutter sensor, and Joseph Rubinstein's original vision for an accessible cinema tool resonated deeply. Its untimely demise also served as a motivation to keep its spirit alive, in a way.
+This project is an homage to the spirit of innovation and a nod to the legendary Digital Bolex D16. Why the D16? Its beautiful marriage of old and new, the unique look from its 1" CCD global shutter sensor, and Joseph Rubinstein's original vision for an accessible cinema tool really resonated with my personal point of view. Its short life also served as a motivation to keep its spirit alive, in a way.
 
 Our goal: To create a digital RAW 2K cinema camera, as Obadiah Stane might say, "with a box of scraps!" (or at least, readily available components).
 
-## The Journey: From Monolith to Maker Masterpiece
+## The Journey: From Monolith to a Real Foundation
 
-This project has been nearly a year in the making, filled with research, headaches, trial-and-error, and moments of "eureka!"
+This project has been nearly two years in the making, filled with research, headaches, trial-and-error, and moments of "eureka!"
 
 **Phase 1: The "Ugly Monolithic" Beginnings (The Spark - approx. Beta 0.1 - 0.3)**
 
@@ -18,16 +18,16 @@ This project has been nearly a year in the making, filled with research, headach
     *   Inspired by the Digital Bolex D16 for its sensor and overall ethos.
     *   Technical concept influenced by projects like CinemaPI (though no code/structure was reused).
     *   **Hardware Selected:**
-        *   Raspberry Pi (initially older models, now a Pi 5 8Gb + SSD hat).
+        *   Raspberry Pi (Pi 5 8Gb + SSD hat).
         *   M.2 1Tb SSD for high-speed RAW recording.
-        *   The heart: A Basler Aviator avA2300-25gc GigE industrial camera module, featuring the **exact same Kodak KAI-04050 1" CCD global shutter sensor** as the Digital Bolex D16. Critically, its interface could pull off ~24fps at 2K.
+        *   The heart: A Basler Aviator avA2300-25gc GigE industrial camera module, featuring the **exact same Kodak KAI-04050 1" CCD global shutter sensor** as the Digital Bolex D16. Critically, its interface could pull off ~24fps at 2K. What's even better is that this code should work with basically any other Basler camera, as well as serve as a base to port to other platforms.
         *   USB Gamepad board for physical button controls.
         *   12V/5A 7800mAh battery pack.
         *   3D printed resin body and accessories.
         *   A growing collection of C-mount and adaptable lenses.
 
 *   **The First Code (The Monolith):**
-    *   The initial software was a single, sprawling Python script – a testament to a burst of creative energy and a lot of caffeine
+    *   The initial software was a single Python script – a testament to a burst of creative energy and a lot of caffeine
     *   It was a patchwork of:
         *   Code snippets to interface with the Basler camera via the Pylon SDK (pieced together from documentation and examples).
         *   Random blocks extracted from OpenCV repositories for image manipulation and display.
