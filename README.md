@@ -22,7 +22,7 @@ This project has been nearly two years in the making, filled with research, head
     *   Inspired by the Digital Bolex D16 for its sensor and overall ethos.
     *   Technical concept influenced by projects like CinePI (though no code/structure was reused).
     *   **Hardware Selected:**
-        *   Raspberry Pi (Pi 5 8Gb + SSD hat).
+        *   Raspberry Pi 5 8Gb + SSD hat.
         *   M.2 1Tb SSD for high-speed RAW recording.
         *   The heart: A Basler Aviator avA2300-25gc GigE industrial camera module, featuring the **exact same Kodak KAI-04050 1" CCD global shutter sensor** as the Digital Bolex D16. Critically, its interface could pull off ~24fps at 2K. What's even better is that this code should work with basically any other Basler camera, as well as serve as a base to port to other platforms.
         *   USB Gamepad board for physical button controls.
