@@ -20,7 +20,7 @@ This project has been nearly two years in the making, filled with research, head
 
 *   **Concept & Core Components:**
     *   Inspired by the Digital Bolex D16 for its sensor and overall ethos.
-    *   Technical concept influenced by projects like CinemaPI (though no code/structure was reused).
+    *   Technical concept influenced by projects like CinePI (though no code/structure was reused).
     *   **Hardware Selected:**
         *   Raspberry Pi (Pi 5 8Gb + SSD hat).
         *   M.2 1Tb SSD for high-speed RAW recording.
