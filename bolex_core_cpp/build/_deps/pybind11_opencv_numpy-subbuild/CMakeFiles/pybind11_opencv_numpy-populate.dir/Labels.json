@@ -1,0 +1,46 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/home/ooze3d/Downloads/bolex_core_cpp/build/_deps/pybind11_opencv_numpy-subbuild/CMakeFiles/pybind11_opencv_numpy-populate"
+		},
+		{
+			"file" : "/home/ooze3d/Downloads/bolex_core_cpp/build/_deps/pybind11_opencv_numpy-subbuild/CMakeFiles/pybind11_opencv_numpy-populate.rule"
+		},
+		{
+			"file" : "/home/ooze3d/Downloads/bolex_core_cpp/build/_deps/pybind11_opencv_numpy-subbuild/CMakeFiles/pybind11_opencv_numpy-populate-complete.rule"
+		},
+		{
+			"file" : "/home/ooze3d/Downloads/bolex_core_cpp/build/_deps/pybind11_opencv_numpy-subbuild/pybind11_opencv_numpy-populate-prefix/src/pybind11_opencv_numpy-populate-stamp/pybind11_opencv_numpy-populate-build.rule"
+		},
+		{
+			"file" : "/home/ooze3d/Downloads/bolex_core_cpp/build/_deps/pybind11_opencv_numpy-subbuild/pybind11_opencv_numpy-populate-prefix/src/pybind11_opencv_numpy-populate-stamp/pybind11_opencv_numpy-populate-configure.rule"
+		},
+		{
+			"file" : "/home/ooze3d/Downloads/bolex_core_cpp/build/_deps/pybind11_opencv_numpy-subbuild/pybind11_opencv_numpy-populate-prefix/src/pybind11_opencv_numpy-populate-stamp/pybind11_opencv_numpy-populate-download.rule"
+		},
+		{
+			"file" : "/home/ooze3d/Downloads/bolex_core_cpp/build/_deps/pybind11_opencv_numpy-subbuild/pybind11_opencv_numpy-populate-prefix/src/pybind11_opencv_numpy-populate-stamp/pybind11_opencv_numpy-populate-install.rule"
+		},
+		{
+			"file" : "/home/ooze3d/Downloads/bolex_core_cpp/build/_deps/pybind11_opencv_numpy-subbuild/pybind11_opencv_numpy-populate-prefix/src/pybind11_opencv_numpy-populate-stamp/pybind11_opencv_numpy-populate-mkdir.rule"
+		},
+		{
+			"file" : "/home/ooze3d/Downloads/bolex_core_cpp/build/_deps/pybind11_opencv_numpy-subbuild/pybind11_opencv_numpy-populate-prefix/src/pybind11_opencv_numpy-populate-stamp/pybind11_opencv_numpy-populate-patch.rule"
+		},
+		{
+			"file" : "/home/ooze3d/Downloads/bolex_core_cpp/build/_deps/pybind11_opencv_numpy-subbuild/pybind11_opencv_numpy-populate-prefix/src/pybind11_opencv_numpy-populate-stamp/pybind11_opencv_numpy-populate-test.rule"
+		},
+		{
+			"file" : "/home/ooze3d/Downloads/bolex_core_cpp/build/_deps/pybind11_opencv_numpy-subbuild/pybind11_opencv_numpy-populate-prefix/src/pybind11_opencv_numpy-populate-stamp/pybind11_opencv_numpy-populate-update.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"pybind11_opencv_numpy-populate"
+		],
+		"name" : "pybind11_opencv_numpy-populate"
+	}
+}

@@ -1,0 +1,3 @@
+/home/ooze3d/Downloads/bolex_core_cpp/build/_deps/pybind11_opencv_numpy-subbuild/CMakeFiles/pybind11_opencv_numpy-populate.dir
+/home/ooze3d/Downloads/bolex_core_cpp/build/_deps/pybind11_opencv_numpy-subbuild/CMakeFiles/edit_cache.dir
+/home/ooze3d/Downloads/bolex_core_cpp/build/_deps/pybind11_opencv_numpy-subbuild/CMakeFiles/rebuild_cache.dir

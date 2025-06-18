@@ -1,0 +1,5 @@
+/home/ooze3d/Downloads/bolex_core_cpp/build/CMakeFiles/core_module.dir
+/home/ooze3d/Downloads/bolex_core_cpp/build/CMakeFiles/edit_cache.dir
+/home/ooze3d/Downloads/bolex_core_cpp/build/CMakeFiles/rebuild_cache.dir
+/home/ooze3d/Downloads/bolex_core_cpp/build/_deps/pybind11-build/CMakeFiles/edit_cache.dir
+/home/ooze3d/Downloads/bolex_core_cpp/build/_deps/pybind11-build/CMakeFiles/rebuild_cache.dir
