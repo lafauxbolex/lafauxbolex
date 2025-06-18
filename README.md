@@ -1,5 +1,9 @@
 # Faux Bolex - A DIY Digital Cinema Camera Project (Beta 0.93)
 
+Disclaimer:
+
+La Faux Bolex project is not directly connected to the Digital Bolex D16 camera or the original Bolex brand in any way, other than the profound respect it holds for both of them, and the wish to pay a humble homage to Joseph Rubinstein and his team.
+
 ## The Dream: A Cinema Camera "With a Box of Scraps"
 
 Welcome to the Faux Bolex project! This endeavor was born from a lifelong passion for filmmaking, a fascination with the technical aspects of cinema cameras, and a natural-born maker's spirit. Born in 1980, owning a proper cinema camera was an impossible dream. While digital cinema has made this more accessible (thanks, George Lucas, Jim Jannard, and others), the challenge of building one from scratch was an irresistible siren call.
