@@ -1,6 +1,6 @@
 # Faux Bolex - A DIY Digital Cinema Camera Project (Beta 0.93)
 
-Disclaimer:
+*Disclaimer:*
 
 La Faux Bolex project is not directly connected to the Digital Bolex D16 camera or the original Bolex brand in any way, other than the profound respect it holds for both of them, and the wish to pay a humble homage to Joseph Rubinstein and his team.
 
@@ -45,7 +45,7 @@ This project has been nearly two years in the making, filled with research, head
     *   **Struggle:** File sizes were enormous (uncompressed TIFFs).
     *   **Struggle:** Code was difficult to maintain and expand.
     *   **Struggle:** Performance was always a concern, pushing the limits of the hardware.
-    *   **Wall:** Truly replicating the D16's CinemaDNG RAW output felt like a distant dream.
+    *   **Wall:** Truly replicating the D16's CinemaDNG RAW output felt like an impossible dream.
 
 **Phase 2: The Great Refactoring & The DNG Breakthrough (The Structure - approx. Beta 0.4 - 0.7)**
 
