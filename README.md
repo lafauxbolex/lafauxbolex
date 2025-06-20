@@ -89,7 +89,8 @@ This project has been nearly two years in the making, filled with research, head
     *   **Framing Guides:** Implemented a 2.39:1 aspect ratio frame guide with a border that changes color (white for standby, red for record), replacing the simple red dot.
     *   **Letterbox Darkening:** Added optional darkening of areas outside the 2.39:1 frame for better compositional focus.
     *   **Fullscreen Preview:** Achieved reliable fullscreen operation for the 1024x600 display.
-
+![Working UI](img/IMG_0709.jpg)
+![Working UI](img/IMG_0712.jpg)
 *   **Hardware Controls & Usability:**
     *   **Gamepad Integration:** Successfully mapped physical buttons on a USB gamepad to functions like Start/Stop Record, Gain Up/Down, WB Trigger, Clipping Toggle using `pygame`.
     *   **Desktop Launcher:** Created a `.desktop` file for easy application launching.
