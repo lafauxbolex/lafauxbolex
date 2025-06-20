@@ -4,6 +4,10 @@
 
 La Faux Bolex project is not directly connected to the Digital Bolex D16 camera or the original Bolex brand in any way, other than the profound respect it holds for both of them, and the wish to pay a humble homage to Joseph Rubinstein and his team.
 
+![Back view](img/IMG_0697.jpg)
+![Front view](img/IMG_0701.jpg)
+*Current state of the camera*
+
 ## The Dream: A Cinema Camera "With a Box of Scraps"
 
 Welcome to the Faux Bolex project! This endeavor was born from a lifelong passion for filmmaking, a fascination with the technical aspects of cinema cameras, and a natural-born maker's spirit. Born in 1980, owning a proper cinema camera was an impossible dream. While digital cinema has made this more accessible (thanks, George Lucas, Jim Jannard, and others), the challenge of building one from scratch was an irresistible siren call.
@@ -15,6 +19,9 @@ Our goal: To create a digital RAW 2K cinema camera, as Obadiah Stane might say, 
 ## The Journey: From Monolith to a Real Foundation
 
 This project has been nearly two years in the making, filled with research, headaches, trial-and-error, and moments of "eureka!"
+
+![How it started](img/IMG_6576.jpg)
+*How it started*
 
 **Phase 1: The "Ugly Monolithic" Beginnings (The Spark - approx. Beta 0.1 - 0.3)**
 
@@ -112,5 +119,5 @@ While Beta 0.93 is incredibly capable, the journey of a maker is never truly ove
 This project is a labor of love, and it's a thrill to see it come so far. Thank you for joining me on this journey!
 
 ---
-# 2025 - La Faux Bolex
-# Released under the MIT License. See LICENSE for details.
+*2025 - La Faux Bolex*
+*Released under the MIT License. See LICENSE for details.*
