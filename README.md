@@ -100,7 +100,7 @@ This project has been nearly two years in the making, filled with research, head
     *   **Optimized Preview Resolution:** Changed C++ preview output to 1280x720 (or 1024x576 for better 1:1 on display) to improve Python-side UI rendering performance and preview sharpness, while DNGs capture the full 2048x1152 16:9 sensor data.
 
 *   **Current Status (Beta 0.93):**
-    *   Records 2K (2048x1152, 16:9) DNGs with lossless JPEG compression.
+    *   Records 2K (2048x1108, 1.85:1) DNGs with lossless JPEG compression.
     *   DNGs have robust metadata (correctly applied Bolex color matrices, illuminants, black/white levels chosen for a good look, neutral AsShotNeutral, etc.) that yield good, gradable images in DaVinci Resolve.
     *   Features a professional-looking fullscreen UI with custom fonts, 2.39:1 framing guides (with record status indication), and optional letterboxing.
     *   Full gamepad control for key camera operations.
@@ -111,6 +111,7 @@ This project has been nearly two years in the making, filled with research, head
 While Beta 0.93 is incredibly capable, the journey of a maker is never truly over! Potential future explorations include:
 
 *   **Lens Mount Modification:** Actively working on a DIY M4/3 mount to vastly expand lens options (primes, zooms, speed boosters!). This is the current major engineering challenge.
+![Future lens mount](img/IMG_0696.jpg)
 *   **Advanced UI Elements:** Further refining the UI, perhaps adding histograms, audio meters (if audio is implemented).
 *   **Audio Recording:** Exploring options for synchronized audio capture.
 *   **Custom Tone Curve / Look Profiles:** Developing a custom `ToneCurve` DNG tag or DCP profile for a more refined "Faux Bolex Native Look" out of the box.
