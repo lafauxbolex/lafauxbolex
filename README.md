@@ -97,7 +97,7 @@ This project has been nearly two years in the making, filled with research, head
 
 *   **Performance and Efficiency:**
     *   **Lossless JPEG Compression:** After confirming `PiDNG` supports it via `compress=True`, implemented this, reducing DNG file sizes by ~33% without any loss of quality. This was a huge win for practicality.
-    *   **Optimized Preview Resolution:** Changed C++ preview output to 1280x720 (or 1024x576 for better 1:1 on display) to improve Python-side UI rendering performance and preview sharpness, while DNGs capture the full 2048x1152 16:9 sensor data.
+    *   **Optimized Preview Resolution:** Changed C++ preview output to 1280x720 (or 1024x576 for better 1:1 on display) to improve Python-side UI rendering performance and preview sharpness, while DNGs capture the (almost) full 2048x1152 16:9 sensor data.
 
 *   **Current Status (Beta 0.93):**
     *   Records 2K (2048x1108, 1.85:1) DNGs with lossless JPEG compression.
