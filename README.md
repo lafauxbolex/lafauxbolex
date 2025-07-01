@@ -1,12 +1,23 @@
 # Faux Bolex - A DIY Digital Cinema Camera Project (Beta 0.93)
 
+#-=NEWS=-
+
+#La Faux Bolex is officially a Micro 4/3 camera!
+
+![New mount](img/IMG_0767.jpg)
+![New mount](img/IMG_0768.jpg)
+
+That's right. Turns out "just give it 19.25mm from the border of the mount to the surface of the sensor" is easier said than done. Even using the official measures from the camera module spreadsheet, it needed about a week of adjustments and reprints to get it just right. Specially because testing it with different kinds of m43 lenses (official Olympus, Chinese manual primes, adapters for EF and M42 mounts...), the results were not consistent and some combinations worked better than others. Now I got to a point where I can get infinite focus on all my lenses really close the point marked as infinite, so even if there's a little room for improvement, it's 99% there, so I can finally print a metal version of the plate to avoid heat deformations.
+
+This is a huge step forward because thanks to its narrow flange distance, you can adapt micro 4/3 to pretty much any other mount, which gives the camera all kinds of different options to use both vintage and new glass, as well as speed boosters, anamorphic adapters...
+
 *Disclaimer:*
 
 La Faux Bolex project is not directly connected to the Digital Bolex D16 camera or the original Bolex brand in any way, other than the profound respect it holds for both of them, and the wish to pay a humble homage to Joseph Rubinstein and his team.
 
 ![Back view](img/IMG_0697.jpg)
 ![Front view](img/IMG_0701.jpg)
-*Current state of the camera*
+*Current state of the camera with a C Mount*
 
 ## The Dream: A Cinema Camera "With a Box of Scraps"
 
@@ -110,8 +121,6 @@ This project has been nearly two years in the making, filled with research, head
 
 While Beta 0.93 is incredibly capable, the journey of a maker is never truly over! Potential future explorations include:
 
-*   **Lens Mount Modification:** Actively working on a DIY M4/3 mount to vastly expand lens options (primes, zooms, speed boosters!). This is the current major engineering challenge.
-![Future lens mount](img/IMG_0696.jpg)
 *   **Advanced UI Elements:** Further refining the UI, perhaps adding histograms, audio meters (if audio is implemented).
 *   **Audio Recording:** Exploring options for synchronized audio capture.
 *   **Custom Tone Curve / Look Profiles:** Developing a custom `ToneCurve` DNG tag or DCP profile for a more refined "Faux Bolex Native Look" out of the box.
