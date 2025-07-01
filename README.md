@@ -1,8 +1,8 @@
 # Faux Bolex - A DIY Digital Cinema Camera Project (Beta 0.93)
 
-##-=NEWS=-
+## -=NEWS=-
 
-##La Faux Bolex is officially a Micro 4/3 camera!
+## La Faux Bolex is officially a Micro 4/3 camera!
 
 ![Back view](img/IMG_0767.jpg)
 ![Front view](img/IMG_0768.jpg)
