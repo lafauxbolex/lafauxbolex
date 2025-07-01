@@ -4,8 +4,8 @@
 
 ## La Faux Bolex is officially a Micro 4/3 camera!
 
-![Back view](img/IMG_0767.jpg)
-![Front view](img/IMG_0768.jpg)
+![Back view](img/IMG_0767.jpeg)
+![Front view](img/IMG_0768.jpeg)
 
 That's right. Turns out "just give it 19.25mm from the border of the mount to the surface of the sensor" is easier said than done. Even using the official measures from the camera module spreadsheet, it needed about a week of adjustments and reprints to get it just right. Specially because testing it with different kinds of m43 lenses (official Olympus, Chinese manual primes, adapters for EF and M42 mounts...), the results were not consistent and some combinations worked better than others. Now I got to a point where I can get infinite focus on all my lenses really close the point marked as infinite, so even if there's a little room for improvement, it's 99% there, so I can finally print a metal version of the plate to avoid heat deformations.
 
