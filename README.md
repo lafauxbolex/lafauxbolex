@@ -27,7 +27,7 @@ Your support will help fund:
 
 This isn't about making a profit; it's about building the best possible open-source cinema camera we can, together. Thank you for being a part of this journey!"
 
-[<img src="img/bmc_qr.png">](coff.ee/lafauxbolef)
+[<img src="img/bmc_qr_sm.png">](https://coff.ee/lafauxbolef)
 
 *Disclaimer:*
 
