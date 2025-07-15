@@ -23,12 +23,13 @@ Your support will help fund:
 - Tools & Materials: Covering the cost of connectors, wires, sensors, and the countless small components that make a project like this possible.
 
 Thank you for being a part of this journey!
+Here's a link to my Buy Me A Coffee page, or you can also [sponsor the project through GitHub](https://github.com/sponsors/lafauxbolex)
 
-[<img src="img/bmc_qr_sm.png">](https://coff.ee/lafauxbolef)
+[<img src="img/bmc_qr_sm.png">](https://coff.ee/lafauxbolef) [<img src="img/github-sponsors.png">](https://github.com/sponsors/lafauxbolex)
 
 *Disclaimer:*
 
-La Faux Bolex project is not directly connected to the Digital Bolex D16 camera or the original Bolex brand in any way, other than the profound respect it holds for both of them, and the wish to pay a humble homage to Joseph Rubinstein and his team.
+*La Faux Bolex project is not directly connected to the Digital Bolex D16 camera or the original Bolex brand in any way, other than the profound respect it holds for both of them, and the wish to pay a humble homage to Joseph Rubinstein and his team.*
 
 ![Back view](img/IMG_0697.jpg)
 ![Front view](img/IMG_0701.jpg)
