@@ -11,21 +11,18 @@ That's right. Turns out "just give it 19.25mm from the border of the mount to th
 
 This is a huge step forward because thanks to its narrow flange distance, you can adapt micro 4/3 to pretty much any other mount, which gives the camera all kinds of different options to use both vintage and new glass, as well as speed boosters, anamorphic adapters...
 
-##"This has been an incredible passion project, and I'm committed to keeping it fully open-source. Every line of code, every 3D model, and every discovery will be shared with the community.
+## This has been an incredible passion project, and I'm committed to keeping it fully open-source. Every line of code, every 3D model, and every discovery will be shared with the community.
 
-##If you're enjoying this journey and want to help take the project to the next level, please consider supporting its development. Every contribution, no matter how small, goes directly back into the camera itself.
+## If you're enjoying this journey and want to help take the project to the next level, please consider supporting its development. Every contribution, no matter how small, goes directly back into the camera itself.
 
 Your support will help fund:
 
-    Upgraded Components: Testing more powerful single-board computers or alternative hardware.
+- Upgraded Components: Testing more powerful single-board computers or alternative hardware.
+- Professional Prototyping: Moving from FDM 3D prints to higher-quality materials like SLS nylon or CNC-milled aluminum for a sturdier body.
+- Optics: Acquiring more vintage C-mount lenses to test and showcase the sensor's potential.
+- Tools & Materials: Covering the cost of connectors, wires, sensors, and the countless small components that make a project like this possible.
 
-    Professional Prototyping: Moving from FDM 3D prints to higher-quality materials like SLS nylon or CNC-milled aluminum for a sturdier body.
-
-    Optics: Acquiring more vintage C-mount lenses to test and showcase the sensor's potential.
-
-    Tools & Materials: Covering the cost of connectors, wires, sensors, and the countless small components that make a project like this possible.
-
-This isn't about making a profit; it's about building the best possible open-source cinema camera we can, together. Thank you for being a part of this journey!"
+Thank you for being a part of this journey!
 
 [<img src="img/bmc_qr_sm.png">](https://coff.ee/lafauxbolef)
 
