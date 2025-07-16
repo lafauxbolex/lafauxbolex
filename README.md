@@ -25,7 +25,7 @@ Your support will help fund:
 Thank you for being a part of this journey!
 Here's a link to my Buy Me A Coffee page, or you can also [sponsor the project through GitHub](https://github.com/sponsors/lafauxbolex)
 
-[<img src="img/bmc_qr_sm.png">](https://coff.ee/lafauxbolef) [<img src="img/github-sponsors.png">](https://github.com/sponsors/lafauxbolex)
+[<img src="img/bmc_qr_sm.png">](https://coff.ee/lafauxbolex) [<img src="img/github-sponsors.png">](https://github.com/sponsors/lafauxbolex)
 
 *Disclaimer:*
 
